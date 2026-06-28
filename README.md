@@ -1,2 +1,2 @@
 # Education-NLP
-Explores how artificial intelligence and natural language processing can improve educational accessibility by adapting complex academic materials for students with varying reading abilities
+NLP for Simplifying Educational Content Across Grade Levels explored how artificial intelligence and natural language processing can improve educational accessibility by adapting complex academic materials for students with varying reading abilities. Through a comparative analysis of educational AI tools and readability metrics, the project evaluated how effectively these systems simplified content while balancing readability, accuracy, and academic rigor.
